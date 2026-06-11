@@ -1,0 +1,11 @@
+.custom-button {
+    text-decoration: none; /* Removes the underline */
+    color: inherit; /* Keeps the text color the same as the parent */
+    padding: 0; /* Removes padding */
+  }
+  
+  .custom-button:hover {
+    color: black; /* Changes text color to black on hover */
+    text-decoration: under; /* Ensures no underline on hover */
+  }
+  
