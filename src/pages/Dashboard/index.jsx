@@ -3,7 +3,7 @@ import StatCard from "../../components/core/Cards/StatCard";
 import { FaUsers, FaChartLine, FaUserPlus, FaServer } from "react-icons/fa";
 import { chartData, BarData, pieData } from '../../data/chartdata/Linedata'
 import BarChartdata from "../../components/chart/Barchart";
-import Piechart from "../../components/chart/PieChart";
+import PieChart from "../../components/chart/PieChart";
 import LineChartdata from "../../components/chart/Linechart";
 import { Link } from "react-router-dom";
 import PieChartData from "../../components/chart/PieChart";
